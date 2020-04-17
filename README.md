@@ -1,5 +1,8 @@
-# Week 5 Assignment  - AJ Henmy
-***Week 5 assignment using Ionic Native***
+# Ionic Grocery App  - AJ Henmy
+***Project uses Ionic Native and CRUD Operations***
  
-- Created by GitHub Classroom
+*CREATE
+*READ
+*UPDATE
+*DELETE
 
